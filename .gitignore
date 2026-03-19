@@ -1,0 +1,20 @@
+# Data (too large for GitHub)
+data/raw/
+data/processed/
+
+# Model weights
+outputs/models/*.pt
+runs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kaggle credentials
+kaggle.json
