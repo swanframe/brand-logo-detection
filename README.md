@@ -2,6 +2,10 @@
 
 Real-time detection and localization of **27 brand logos** in images using YOLOv8 object detection.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/swanframe/brand-logo-detection/blob/main/notebook.ipynb)
+
+> ⚠️ This project is designed to run on Google Colab. All paths use the standard `/content/` Colab working directory.
+
 ![Batch Inference Demo](outputs/figures/inference_batch_demo.png)
 
 ---
