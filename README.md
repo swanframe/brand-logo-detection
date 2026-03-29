@@ -124,6 +124,19 @@ brand-logo-detection/
 
 ---
 
+## 🔑 Kaggle API Setup (Colab)
+
+Before preparing the data, you need to enter your Kaggle credentials.
+When prompted, enter your Kaggle username and API key:
+```python
+kaggle_username = input("Enter your Kaggle username: ")
+kaggle_key      = getpass("Enter Kaggle API key: ")
+```
+
+Get your API key from: Kaggle → Account → API → **Create New Token** (downloads `kaggle.json`)
+
+---
+
 ## 🚀 Quick Start
 
 ### 1. Setup Environment
