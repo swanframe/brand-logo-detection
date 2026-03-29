@@ -10,6 +10,18 @@ Real-time detection and localization of **27 brand logos** in images using YOLOv
 
 ---
 
+## 💡 Motivation
+Brand logos appear everywhere — social media posts, news coverage, sports broadcasts.
+Automatically detecting them enables use cases like brand monitoring, ad verification,
+and sponsorship analytics at scale.
+
+## 🔎 Limitations & Next Steps
+- Small dataset (808 images) limits generalization to real-world logo diversity
+- Challenging classes (Nike, HP) suffer from high intra-class variation
+- Next steps: synthetic data augmentation, or testing on a larger dataset like LogoDet-3K
+
+---
+
 ## 📋 Project Overview
 
 | Item | Detail |
